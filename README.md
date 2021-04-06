@@ -1,6 +1,6 @@
 ## Hey, I'm Ishmam 👋
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding gif" width="350" align="right">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding gif" width="300" align="right">
 
 ### About me
 - ***Pronouns*** : He | Him
@@ -9,26 +9,6 @@
 - I like cats
 ---
 <div align="center">
-  
-# Hi, I am Bit!👨‍🎓
-
-[Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
-
-I am now Working at **Tencent** 🐧
-
-School at **UESTC**，Major in **Software Engineering**💻
-
-I love **OpenSource Movement** ❤️
-
-I like to Record and Share **Knowledge** ☁️
-
-## My interest❤️ 
-
-**Cloud Native, Big Data , Blockchain and AI**☁️
-
-**Kubernetes, Istio，Envoy，Knative, Consul，Prometheus** 🤖️
-
-## My Repos are Below👇 
-
-#### Feel free to give Your Suggestions, Issues or PRs🌍
- </div>
+  [<img src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1617710155~hmac=349e0b30ce4f7e762bdb265282b7dc45" width="3.5%"/ alt="Twitter">](https://twitter.com/ishmamtashdeed) &nbsp;
+  [<img src="https://www.flaticon.com/free-icon/reddit_2111589?term=reddit&page=1&position=1&page=1&position=1&related_id=2111589&origin=search" width="3.5%"/ alt="Reddit">](https://twitter.com/ishmamtashdeed)
+</div>
