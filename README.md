@@ -1,7 +1,13 @@
-<div>
+<div align="center">
   <img src="https://github.com/ishmamt/ishmamt/blob/main/Hey%2C%20I'm%20Ishmam.png" alt="Coding gif" width="700">
-</div>
 
+  <br>
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ishmamt.visitor-badge) &nbsp;
+  [![Repos Badge](https://badges.pufler.dev/repos/ishmamt)](https://badges.pufler.dev) &nbsp;
+  [![Years Badge](https://badges.pufler.dev/years/ishmamt)](https://badges.pufler.dev)
+
+</div>
 <br>
 <br>
 
@@ -44,3 +50,12 @@ I am interested in Machine Learning, Deep Learning, Data Science and building sy
 <img height="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png"> &nbsp;
+
+### Currently Learning 📝
+- Remotely hosting models ☁
+- Frontend and Backend Development 🖥
+- Deep Learning techniques 📈
+
+### Stats
+[![Ishmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishmamt&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishmamt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
