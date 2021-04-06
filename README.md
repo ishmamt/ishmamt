@@ -1,4 +1,9 @@
-## Hey, I'm Ishmam 👋
+<div>
+  <img src="https://github.com/ishmamt/ishmamt/blob/main/Hey%2C%20I'm%20Ishmam.png" alt="Coding gif" width="700">
+</div>
+
+<br>
+<br>
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding gif" width="250" align="right">
 
