@@ -18,7 +18,7 @@
 I am interested in Machine Learning, Deep Learning, Data Science and building systems to automate or help out day to day tasks. I also like making [art](https://sed_cat.artstation.com/ "ArtStation") using blender. Recently I have developed a new interest in space.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" alt="Ai gif" width="400">
+  <img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" alt="Ai gif" width="350">
 </div>
 
 ### Languages
@@ -26,9 +26,16 @@ I am interested in Machine Learning, Deep Learning, Data Science and building sy
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1617718779~hmac=564d5c9a54b71596ce34794de82f4e70"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
 
 ### Tools
 <img height="30" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/B/blender-logo-91B66CA31F-seeklogo.com.png"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png"> &nbsp;
