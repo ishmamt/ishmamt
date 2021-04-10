@@ -48,7 +48,7 @@ I am interested in Machine Learning, Deep Learning, Data Science and building sy
 <img height="40" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/B/blender-logo-91B66CA31F-seeklogo.com.png"> &nbsp;
-<img height="40" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png"> &nbsp;
 
