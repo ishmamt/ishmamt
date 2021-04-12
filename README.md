@@ -59,4 +59,4 @@ I am interested in Machine Learning, Deep Learning, Data Science and building sy
 
 ### Stats
 [![Ishmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishmamt&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishmamt&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishmamt&theme=tokyonight&layout=compact&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
