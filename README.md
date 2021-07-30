@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding gif" width="250" align="right">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding gif" width="350" align="right">
 
 ### About me
 - ***Pronouns*** : He | Him
