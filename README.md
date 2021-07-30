@@ -30,7 +30,7 @@
 I am interested in Machine Learning, Deep Learning, Data Science and building systems to automate or help out day to day tasks. I also like making [art](https://sed_cat.artstation.com/ "ArtStation") using blender. Recently I have developed a new interest in space.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" alt="Ai gif" width="350">
+  <img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" alt="Ai gif" width="550">
 </div>
 
 ### Languages
