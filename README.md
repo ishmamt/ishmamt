@@ -51,6 +51,7 @@ I am interested in Machine Learning, Deep Learning, Data Science and building sy
 <img height="40" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"> &nbsp;
 
 ### Currently Learning 📝
 - Remotely hosting models ☁
