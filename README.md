@@ -27,7 +27,7 @@
 [<img src="https://seeklogo.com/images/A/artstation-logo-5765B1C358-seeklogo.com.png" width="3.5%"/>](https://sed_cat.artstation.com/)
 
 ### My interests 💜
-I am interested in Machine Learning, Deep Learning, Data Science and building systems to automate or help out day to day tasks. I also like making [art](https://sed_cat.artstation.com/ "ArtStation") using blender. Recently I have developed a new interest in space.
+I am interested in Machine Learning, Deep Learning, Data Science and building systems to automate or help out day to day tasks. I also like making [art](https://sed_cat.artstation.com/ "ArtStation") using blender.
 
 <div align="center">
   <img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" alt="Ai gif" width="550">
