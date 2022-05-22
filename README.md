@@ -30,13 +30,18 @@
 </div>
 
 ---
-<!-- [<img src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" width="3.5%"/>](https://ishmamtashdeed.hashnode.dev/) &nbsp; -->
-<a href="mailto:ishmam.tashdeed13@gmail.com"> <img src="https://seeklogo.com/images/G/gmail-logo-B9EE8C51F1-seeklogo.com.png" width="3.5%"/> &nbsp;
-[<img src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" width="3.5%"/>](https://www.linkedin.com/in/ishmam-tashdeed-17b05720b/) &nbsp;
-[<img src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" width="3.5%"/>](https://twitter.com/ishmamtashdeed) &nbsp;
-[<img src="https://seeklogo.com/images/R/reddit-logo-8ABF8F5F2B-seeklogo.com.png" width="3.5%"/>](https://www.reddit.com/user/ishmamtashdeed) &nbsp;
-[<img src="https://seeklogo.com/images/A/artstation-logo-5765B1C358-seeklogo.com.png" width="3.5%"/>](https://sed_cat.artstation.com/)
 
+<div align="center">
+  
+<!-- [<img src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" width="3.5%"/>](https://ishmamtashdeed.hashnode.dev/) &nbsp; -->
+  <a href="mailto:ishmam.tashdeed13@gmail.com"> <img src="https://seeklogo.com/images/G/gmail-logo-B9EE8C51F1-seeklogo.com.png" width="3.5%"/> &nbsp;
+  [<img src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" width="3.5%"/>](https://www.linkedin.com/in/ishmam-tashdeed-17b05720b/) &nbsp;
+  [<img src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" width="3.5%"/>](https://twitter.com/ishmamtashdeed) &nbsp;
+  [<img src="https://seeklogo.com/images/R/reddit-logo-8ABF8F5F2B-seeklogo.com.png" width="3.5%"/>](https://www.reddit.com/user/ishmamtashdeed) &nbsp;
+  [<img src="https://seeklogo.com/images/A/artstation-logo-5765B1C358-seeklogo.com.png" width="3.5%"/>](https://sed_cat.artstation.com/)
+    
+</div>
+  
 ### My interests 💜
 I am interested in Machine Learning, Deep Learning, Data Science and building systems to automate or help out day to day tasks. I also like making [art](https://sed_cat.artstation.com/ "ArtStation") using blender.
 
