@@ -11,13 +11,25 @@
 <br>
 <br>
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding gif" width="350" align="right">
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h2> About me </h2>
+        <ul>
+          <li><b>Pronouns</b> : He | Him </li>
+          <li> I'm currently studying CS at <a href="https://www.iutoic-dhaka.edu">IUT</a> </li>
+          <li> Working on personal and academic projects 👨‍💻 </li>
+          <li> I like cats </li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding gif" width="350" align="right">
+      </td>
+    </tr>
+  </table>
+</div>
 
-### About me
-- ***Pronouns*** : He | Him
-- I'm currently studying CS at [IUT](https://www.iutoic-dhaka.edu "Islamic University of Technology")
-- Working on personal and academic projects 👨‍💻
-- I like cats
 ---
 <!-- [<img src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" width="3.5%"/>](https://ishmamtashdeed.hashnode.dev/) &nbsp; -->
 <a href="mailto:ishmam.tashdeed13@gmail.com"> <img src="https://seeklogo.com/images/G/gmail-logo-B9EE8C51F1-seeklogo.com.png" width="3.5%"/> &nbsp;
