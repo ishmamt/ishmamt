@@ -5,8 +5,8 @@
   <br>
   
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=ishmamt.visitor-badge) &nbsp;
-  [![Repos Badge](https://badges.pufler.dev/repos/ishmamt)](https://badges.pufler.dev) &nbsp;
-  [![Years Badge](https://badges.pufler.dev/years/ishmamt)](https://badges.pufler.dev)
+  ![Repos Badge](https://badges.pufler.dev/repos/ishmamt)](https://badges.pufler.dev) &nbsp;
+  ![Years Badge](https://badges.pufler.dev/years/ishmamt)](https://badges.pufler.dev)
 
 </div>
 
