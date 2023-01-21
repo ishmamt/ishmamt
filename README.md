@@ -71,4 +71,4 @@ I am interested in Machine Learning, Deep Learning, Data Science and building sy
 <img height="40" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png"> &nbsp;
 
 ### Stats
-[![Ishmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishmamt&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ishmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishmamt)](https://github.com/anuraghazra/github-readme-stats)
