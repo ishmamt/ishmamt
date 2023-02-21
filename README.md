@@ -18,7 +18,7 @@
         <ul>
           <li><b>Pronouns</b> : He | Him </li>
           <li> I'm currently studying CS at <a href="https://www.iutoic-dhaka.edu">IUT</a> </li>
-          <li> Working on personal and academic projects 👨‍💻 </li>
+          <li> Open to research opportunities 👨‍💻 </li>
           <li> I like cats </li>
         </ul>
       </td>
@@ -43,7 +43,7 @@
 </div>
   
 ### My interests 💜
-I am interested in Machine Learning, Deep Learning, Data Science and building systems to automate or help out day to day tasks. I also like making [art](https://sed_cat.artstation.com/ "ArtStation") using blender.
+I am interested in **multimodal Learning**, **computer vision** and **natural language processing**. I also like making [art](https://sed_cat.artstation.com/ "ArtStation") using blender.
 
 <div align="center">
   <img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" alt="Ai gif" width="550">
@@ -70,5 +70,5 @@ I am interested in Machine Learning, Deep Learning, Data Science and building sy
 <img height="40" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png"> &nbsp;
 
-### Stats
-[![Ishmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishmamt&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### Stats
+[![Ishmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishmamt&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
