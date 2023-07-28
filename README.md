@@ -4,7 +4,7 @@
   <br>
   <br>
   
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ishmamt.visitor-badge) &nbsp;
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ishmamt.visitor-badge) &nbsp; -->
 <!--   [![Repos Badge](https://badges.pufler.dev/repos/ishmamt)](https://badges.pufler.dev) &nbsp; -->
 <!--   [![Years Badge](https://badges.pufler.dev/years/ishmamt)](https://badges.pufler.dev) -->
 
@@ -17,7 +17,7 @@
         <h2> About me </h2>
         <ul>
           <li><b>Pronouns</b> : He | Him </li>
-          <li> I'm currently studying CS at <a href="https://www.iutoic-dhaka.edu">IUT</a> </li>
+          <li> Studied CS at <a href="https://www.iutoic-dhaka.edu">IUT</a> </li>
           <li> Open to research opportunities 👨‍💻 </li>
           <li> I like cats </li>
         </ul>
