@@ -43,7 +43,7 @@
 </div>
   
 ### My interests 💜
-I am interested in **multimodal Learning**, **computer vision** and **natural language processing**. I also like making [art](https://sed_cat.artstation.com/ "ArtStation") using blender.
+I am interested in **multimodal learning**, **computer vision** and **natural language processing**. I also like making [art](https://sed_cat.artstation.com/ "ArtStation") using blender.
 
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" alt="Ai gif" width="550">
