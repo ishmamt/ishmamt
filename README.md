@@ -49,6 +49,7 @@ I am interested in **multimodal learning**, **computer vision** and **natural la
   <img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" alt="Ai gif" width="550">
 </div> -->
 
+<!-- 
 ### Languages
 <img height="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"> &nbsp;
@@ -68,7 +69,7 @@ I am interested in **multimodal learning**, **computer vision** and **natural la
 <img height="40" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png"> &nbsp;
 <img height="40" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png"> &nbsp;
-<img height="40" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png"> &nbsp;
+<img height="40" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png"> &nbsp; -->
 
 <!-- ### Stats
 [![Ishmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishmamt&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
